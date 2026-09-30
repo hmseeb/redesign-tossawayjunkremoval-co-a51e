@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Toss Away Junk Removal">
+  <rect width="64" height="64" rx="14" fill="#0B1117"/>
+  <path d="M14 22h36l-3.2 26.2A4 4 0 0 1 42.8 52H21.2a4 4 0 0 1-4-3.8L14 22Z" fill="#11845A"/>
+  <rect x="11" y="16.5" width="42" height="5.5" rx="2" fill="#C9F24C"/>
+  <path d="M25 13h14v3.5H25z" fill="#C9F24C"/>
+  <path d="M25 29v15M32 29v15M39 29v15" stroke="#C9F24C" stroke-width="3" stroke-linecap="round" opacity=".85"/>
+</svg>
